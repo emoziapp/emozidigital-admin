@@ -1,6 +1,6 @@
 # emozidigital-admin
 
-Admin panel for NortheastForU — manage onboarding submissions, users, and site content.
+Admin panel for Emozi Digital — manage onboarding submissions, users, and site content.
 
 ## Tech Stack
 
